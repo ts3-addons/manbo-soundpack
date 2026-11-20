@@ -27,7 +27,7 @@ jobs:
         shell: powershell
         run: .\scripts\build.ps1 -Variant All -Version $env:GITHUB_REF_NAME
       - name: Publish release
-        shell: powershell
+        shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
