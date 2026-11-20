@@ -1,0 +1,38 @@
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build and verify both variants
+        shell: powershell
+        run: .\tests\build.ps1
+
+  release:
+    needs: test
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build release packages
+        shell: powershell
+        run: .\scripts\build.ps1 -Variant All -Version $env:GITHUB_REF_NAME
+      - name: Publish release
+        shell: powershell
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $version = $env:GITHUB_REF_NAME
+          $original = "dist/ManboSoundpack-$version.ts3_soundpack"
+          $manbo = "dist/ManboSoundpack-$version-Manbo.ts3_soundpack"
+          gh release create $version $original $manbo --title "Manbo Soundpack $version" --notes '`-Manbo` 版本将戳一戳音效替换为“曼波！”。' --generate-notes
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }

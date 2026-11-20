@@ -1,0 +1,397 @@
+[
+  {
+    "file": "3d_test.wav",
+    "text": "you",
+    "avg_logprob": -0.547
+  },
+  {
+    "file": "away_activated.wav",
+    "text": "See you soon.",
+    "avg_logprob": -0.145
+  },
+  {
+    "file": "away_deactivated.wav",
+    "text": "Welcome back.",
+    "avg_logprob": -0.199
+  },
+  {
+    "file": "blocked_user_banned_server_currentchannel.wav",
+    "text": "Blocked user in your channel was banned from the server.",
+    "avg_logprob": -0.061
+  },
+  {
+    "file": "blocked_user_connection_connected_currentchannel.wav",
+    "text": "Blocked user entered your channel.",
+    "avg_logprob": -0.135
+  },
+  {
+    "file": "blocked_user_connection_connectionlost_currentchannel.wav",
+    "text": "blocked user in your channel timed out.",
+    "avg_logprob": -0.175
+  },
+  {
+    "file": "blocked_user_connection_disconnected_currentchannel.wav",
+    "text": "Blocked user disconnected from your channel.",
+    "avg_logprob": -0.127
+  },
+  {
+    "file": "blocked_user_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "blocked user was kicked out of your channel.",
+    "avg_logprob": -0.098
+  },
+  {
+    "file": "blocked_user_kicked_channel_tocurrentchannel.wav",
+    "text": "Blocked user was kicked to your channel.",
+    "avg_logprob": -0.123
+  },
+  {
+    "file": "blocked_user_kicked_server_currentchannel.wav",
+    "text": "Blocked user in your channel was kicked from the server.",
+    "avg_logprob": -0.129
+  },
+  {
+    "file": "blocked_user_moved_awayfromcurrentchannel.wav",
+    "text": "Blocked user was moved out of your channel.",
+    "avg_logprob": -0.088
+  },
+  {
+    "file": "blocked_user_moved_tocurrentchannel.wav",
+    "text": "Blocked user was moved to your channel.",
+    "avg_logprob": -0.109
+  },
+  {
+    "file": "blocked_user_switched_awayfromcurrentchannel.wav",
+    "text": "Blocked user left your channel.",
+    "avg_logprob": -0.125
+  },
+  {
+    "file": "blocked_user_switched_tocurrentchannel.wav",
+    "text": "Blocked user joined your channel.",
+    "avg_logprob": -0.127
+  },
+  {
+    "file": "channel_created.wav",
+    "text": "channel created.",
+    "avg_logprob": -0.11
+  },
+  {
+    "file": "channel_deleted.wav",
+    "text": "channel deleted.",
+    "avg_logprob": -0.07
+  },
+  {
+    "file": "channel_edited.wav",
+    "text": "channel edited.",
+    "avg_logprob": -0.137
+  },
+  {
+    "file": "channel_moved.wav",
+    "text": "channel moved.",
+    "avg_logprob": -0.203
+  },
+  {
+    "file": "channel_switched.wav",
+    "text": "channel switched.",
+    "avg_logprob": -0.239
+  },
+  {
+    "file": "channelgroup_changed.wav",
+    "text": "channel group changed.",
+    "avg_logprob": -0.101
+  },
+  {
+    "file": "chat_message_inbound.wav",
+    "text": "you",
+    "avg_logprob": -0.684
+  },
+  {
+    "file": "chat_message_outbound.wav",
+    "text": "",
+    "avg_logprob": null
+  },
+  {
+    "file": "connected.wav",
+    "text": "connected.",
+    "avg_logprob": -0.191
+  },
+  {
+    "file": "connection_lost.wav",
+    "text": "Connection lost.",
+    "avg_logprob": -0.159
+  },
+  {
+    "file": "disconnected.wav",
+    "text": "disconnected.",
+    "avg_logprob": -0.323
+  },
+  {
+    "file": "error.wav",
+    "text": "error.",
+    "avg_logprob": -0.181
+  },
+  {
+    "file": "filetransfer_complete.wav",
+    "text": "File transfer complete.",
+    "avg_logprob": -0.126
+  },
+  {
+    "file": "filetransfer_failed.wav",
+    "text": "file transfer failed.",
+    "avg_logprob": -0.661
+  },
+  {
+    "file": "friend_banned_server_currentchannel.wav",
+    "text": "Buddy and your channel was banned from the server.",
+    "avg_logprob": -0.106
+  },
+  {
+    "file": "friend_connection_connected_currentchannel.wav",
+    "text": "Buddy entered your channel.",
+    "avg_logprob": -0.117
+  },
+  {
+    "file": "friend_connection_connectionlost_currentchannel.wav",
+    "text": "Buddy in your channel, timed out.",
+    "avg_logprob": -0.182
+  },
+  {
+    "file": "friend_connection_disconnected_currentchannel.wav",
+    "text": "Buddy disconnected from your channel.",
+    "avg_logprob": -0.129
+  },
+  {
+    "file": "friend_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "Buddy was kicked out of your channel.",
+    "avg_logprob": -0.149
+  },
+  {
+    "file": "friend_kicked_channel_tocurrentchannel.wav",
+    "text": "buddy was kicked to your channel.",
+    "avg_logprob": -0.179
+  },
+  {
+    "file": "friend_kicked_server_currentchannel.wav",
+    "text": "Buddy and your channel was kicked from the server.",
+    "avg_logprob": -0.118
+  },
+  {
+    "file": "friend_moved_awayfromcurrentchannel.wav",
+    "text": "Buddy was moved out of your channel.",
+    "avg_logprob": -0.094
+  },
+  {
+    "file": "friend_moved_tocurrentchannel.wav",
+    "text": "Buddy was moved to your channel.",
+    "avg_logprob": -0.121
+  },
+  {
+    "file": "friend_switched_awayfromcurrentchannel.wav",
+    "text": "Buddy left your channel.",
+    "avg_logprob": -0.131
+  },
+  {
+    "file": "friend_switched_tocurrentchannel.wav",
+    "text": "Buddy joins your channel.",
+    "avg_logprob": -0.213
+  },
+  {
+    "file": "greeting.wav",
+    "text": "Welcome to TeamSpeak.",
+    "avg_logprob": -0.111
+  },
+  {
+    "file": "insufficient_permissions.wav",
+    "text": "insufficient permissions.",
+    "avg_logprob": -0.165
+  },
+  {
+    "file": "mic_activated.wav",
+    "text": "Microphone activated.",
+    "avg_logprob": -0.227
+  },
+  {
+    "file": "mic_click_off.wav",
+    "text": "you",
+    "avg_logprob": -0.707
+  },
+  {
+    "file": "mic_click_on.wav",
+    "text": "you",
+    "avg_logprob": -0.726
+  },
+  {
+    "file": "mic_muted.wav",
+    "text": "microphone muted.",
+    "avg_logprob": -0.121
+  },
+  {
+    "file": "neutral_banned_server_currentchannel.wav",
+    "text": "User in your channel was banned from the server.",
+    "avg_logprob": -0.058
+  },
+  {
+    "file": "neutral_connection_connected_currentchannel.wav",
+    "text": "User entered your channel.",
+    "avg_logprob": -0.13
+  },
+  {
+    "file": "neutral_connection_connectionlost_currentchannel.wav",
+    "text": "user in your channel timed out.",
+    "avg_logprob": -0.18
+  },
+  {
+    "file": "neutral_connection_disconnected_currentchannel.wav",
+    "text": "user disconnected from your channel.",
+    "avg_logprob": -0.149
+  },
+  {
+    "file": "neutral_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "User was kicked out of your channel.",
+    "avg_logprob": -0.104
+  },
+  {
+    "file": "neutral_kicked_channel_tocurrentchannel.wav",
+    "text": "User was kicked to your channel.",
+    "avg_logprob": -0.101
+  },
+  {
+    "file": "neutral_kicked_server_currentchannel.wav",
+    "text": "User in your channel was kicked from the server.",
+    "avg_logprob": -0.048
+  },
+  {
+    "file": "neutral_moved_awayfromcurrentchannel.wav",
+    "text": "user was moved out of your channel.",
+    "avg_logprob": -0.085
+  },
+  {
+    "file": "neutral_moved_tocurrentchannel.wav",
+    "text": "user was moved to your channel.",
+    "avg_logprob": -0.1
+  },
+  {
+    "file": "neutral_recording_active_currentchannel.wav",
+    "text": "User in your channel is recording.",
+    "avg_logprob": -0.102
+  },
+  {
+    "file": "neutral_recording_started_currentchannel.wav",
+    "text": "User and your channel started recording.",
+    "avg_logprob": -0.146
+  },
+  {
+    "file": "neutral_recording_stopped_currentchannel.wav",
+    "text": "User and your channel stopped recording.",
+    "avg_logprob": -0.185
+  },
+  {
+    "file": "neutral_switched_awayfromcurrentchannel.wav",
+    "text": "User left your channel.",
+    "avg_logprob": -0.175
+  },
+  {
+    "file": "neutral_switched_tocurrentchannel.wav",
+    "text": "User joined your channel.",
+    "avg_logprob": -0.174
+  },
+  {
+    "file": "no_whisper_target_found.wav",
+    "text": "No Whisper Target found.",
+    "avg_logprob": -0.261
+  },
+  {
+    "file": "servergroup_assigned.wav",
+    "text": "Server group assigned.",
+    "avg_logprob": -0.193
+  },
+  {
+    "file": "servergroup_revoked.wav",
+    "text": "Server group revoked.",
+    "avg_logprob": -0.208
+  },
+  {
+    "file": "sound_muted.wav",
+    "text": "Sound muted.",
+    "avg_logprob": -0.157
+  },
+  {
+    "file": "sound_resumed.wav",
+    "text": "Sound resumed.",
+    "avg_logprob": -0.211
+  },
+  {
+    "file": "stop_talking.wav",
+    "text": "you",
+    "avg_logprob": -0.67
+  },
+  {
+    "file": "talkpower_granted.wav",
+    "text": "Talk Power Granted.",
+    "avg_logprob": -0.314
+  },
+  {
+    "file": "talkpower_requested.wav",
+    "text": "User requested talk power.",
+    "avg_logprob": -0.197
+  },
+  {
+    "file": "talkpower_revoked.wav",
+    "text": "talk power revoked.",
+    "avg_logprob": -0.122
+  },
+  {
+    "file": "testsound.wav",
+    "text": "testing your playback sound system.",
+    "avg_logprob": -0.117
+  },
+  {
+    "file": "too_many_whisper_targets.wav",
+    "text": "too many whisper targets.",
+    "avg_logprob": -0.191
+  },
+  {
+    "file": "whisper_notify.wav",
+    "text": "",
+    "avg_logprob": null
+  },
+  {
+    "file": "whisperlist_is_empty.wav",
+    "text": "Whisper List is empty.",
+    "avg_logprob": -0.148
+  },
+  {
+    "file": "you_edited_server.wav",
+    "text": "you edited the server.",
+    "avg_logprob": -0.148
+  },
+  {
+    "file": "you_kicked_channel.wav",
+    "text": "You were kicked from the channel.",
+    "avg_logprob": -0.064
+  },
+  {
+    "file": "you_kicked_server.wav",
+    "text": "you were kicked from the server.",
+    "avg_logprob": -0.093
+  },
+  {
+    "file": "you_were_banned.wav",
+    "text": "You were bound from the server.",
+    "avg_logprob": -0.168
+  },
+  {
+    "file": "you_were_moved.wav",
+    "text": "You were moved.",
+    "avg_logprob": -0.195
+  },
+  {
+    "file": "you_were_poked.wav",
+    "text": "Hey, wake up.",
+    "avg_logprob": -0.209
+  },
+  {
+    "file": "your_channel_was_edited.wav",
+    "text": "Your channel was edited.",
+    "avg_logprob": -0.076
+  }
+]

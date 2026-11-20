@@ -1,0 +1,404 @@
+[
+  {
+    "file": "3d_test.wav",
+    "text": "you",
+    "text_zh": "三维立体声测试",
+    "note": "官方为纯音效；此处为可供文生音使用的播报词"
+  },
+  {
+    "file": "away_activated.wav",
+    "text": "See you soon.",
+    "text_zh": "回头见。"
+  },
+  {
+    "file": "away_deactivated.wav",
+    "text": "Welcome back.",
+    "text_zh": "欢迎回来。"
+  },
+  {
+    "file": "blocked_user_banned_server_currentchannel.wav",
+    "text": "Blocked user in your channel was banned from the server.",
+    "text_zh": "你频道里的黑名单用户被封禁了。"
+  },
+  {
+    "file": "blocked_user_connection_connected_currentchannel.wav",
+    "text": "Blocked user entered your channel.",
+    "text_zh": "黑名单用户进入了你的频道。"
+  },
+  {
+    "file": "blocked_user_connection_connectionlost_currentchannel.wav",
+    "text": "blocked user in your channel timed out.",
+    "text_zh": "你频道里的黑名单用户超时了。"
+  },
+  {
+    "file": "blocked_user_connection_disconnected_currentchannel.wav",
+    "text": "Blocked user disconnected from your channel.",
+    "text_zh": "黑名单用户与你的频道断开了连接。"
+  },
+  {
+    "file": "blocked_user_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "blocked user was kicked out of your channel.",
+    "text_zh": "黑名单用户被踢出了你的频道。"
+  },
+  {
+    "file": "blocked_user_kicked_channel_tocurrentchannel.wav",
+    "text": "Blocked user was kicked to your channel.",
+    "text_zh": "黑名单用户被踢到了你的频道。"
+  },
+  {
+    "file": "blocked_user_kicked_server_currentchannel.wav",
+    "text": "Blocked user in your channel was kicked from the server.",
+    "text_zh": "你频道里的黑名单用户被踢出了服务器。"
+  },
+  {
+    "file": "blocked_user_moved_awayfromcurrentchannel.wav",
+    "text": "Blocked user was moved out of your channel.",
+    "text_zh": "黑名单用户被移出了你的频道。"
+  },
+  {
+    "file": "blocked_user_moved_tocurrentchannel.wav",
+    "text": "Blocked user was moved to your channel.",
+    "text_zh": "黑名单用户被移到了你的频道。"
+  },
+  {
+    "file": "blocked_user_switched_awayfromcurrentchannel.wav",
+    "text": "Blocked user left your channel.",
+    "text_zh": "黑名单用户离开了你的频道。"
+  },
+  {
+    "file": "blocked_user_switched_tocurrentchannel.wav",
+    "text": "Blocked user joined your channel.",
+    "text_zh": "黑名单用户加入了你的频道。"
+  },
+  {
+    "file": "channel_created.wav",
+    "text": "channel created.",
+    "text_zh": "频道已创建。"
+  },
+  {
+    "file": "channel_deleted.wav",
+    "text": "channel deleted.",
+    "text_zh": "频道已删除。"
+  },
+  {
+    "file": "channel_edited.wav",
+    "text": "channel edited.",
+    "text_zh": "频道已修改。"
+  },
+  {
+    "file": "channel_moved.wav",
+    "text": "channel moved.",
+    "text_zh": "频道已移动。"
+  },
+  {
+    "file": "channel_switched.wav",
+    "text": "channel switched.",
+    "text_zh": "频道已切换。"
+  },
+  {
+    "file": "channelgroup_changed.wav",
+    "text": "channel group changed.",
+    "text_zh": "频道组已变更。"
+  },
+  {
+    "file": "chat_message_inbound.wav",
+    "text": "you",
+    "text_zh": "收到新消息",
+    "note": "官方默认包为纯提示音；官方TTS版对应“Message received”"
+  },
+  {
+    "file": "chat_message_outbound.wav",
+    "text": "",
+    "text_zh": "消息已发送",
+    "note": "官方默认包为纯提示音；官方TTS版对应“Message sent”"
+  },
+  {
+    "file": "connected.wav",
+    "text": "connected.",
+    "text_zh": "已连接。"
+  },
+  {
+    "file": "connection_lost.wav",
+    "text": "Connection lost.",
+    "text_zh": "连接中断。"
+  },
+  {
+    "file": "disconnected.wav",
+    "text": "disconnected.",
+    "text_zh": "已断开连接。"
+  },
+  {
+    "file": "error.wav",
+    "text": "error.",
+    "text_zh": "错误。"
+  },
+  {
+    "file": "filetransfer_complete.wav",
+    "text": "File transfer complete.",
+    "text_zh": "文件传输完成。"
+  },
+  {
+    "file": "filetransfer_failed.wav",
+    "text": "file transfer failed.",
+    "text_zh": "文件传输失败。"
+  },
+  {
+    "file": "friend_banned_server_currentchannel.wav",
+    "text": "Buddy and your channel was banned from the server.",
+    "text_zh": "你频道里的好友被封禁了。"
+  },
+  {
+    "file": "friend_connection_connected_currentchannel.wav",
+    "text": "Buddy entered your channel.",
+    "text_zh": "好友进入了你的频道。"
+  },
+  {
+    "file": "friend_connection_connectionlost_currentchannel.wav",
+    "text": "Buddy in your channel, timed out.",
+    "text_zh": "你频道里的好友超时了。"
+  },
+  {
+    "file": "friend_connection_disconnected_currentchannel.wav",
+    "text": "Buddy disconnected from your channel.",
+    "text_zh": "好友与你的频道断开了连接。"
+  },
+  {
+    "file": "friend_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "Buddy was kicked out of your channel.",
+    "text_zh": "好友被踢出了你的频道。"
+  },
+  {
+    "file": "friend_kicked_channel_tocurrentchannel.wav",
+    "text": "buddy was kicked to your channel.",
+    "text_zh": "好友被踢到了你的频道。"
+  },
+  {
+    "file": "friend_kicked_server_currentchannel.wav",
+    "text": "Buddy and your channel was kicked from the server.",
+    "text_zh": "你频道里的好友被踢出了服务器。"
+  },
+  {
+    "file": "friend_moved_awayfromcurrentchannel.wav",
+    "text": "Buddy was moved out of your channel.",
+    "text_zh": "好友被移出了你的频道。"
+  },
+  {
+    "file": "friend_moved_tocurrentchannel.wav",
+    "text": "Buddy was moved to your channel.",
+    "text_zh": "好友被移到了你的频道。"
+  },
+  {
+    "file": "friend_switched_awayfromcurrentchannel.wav",
+    "text": "Buddy left your channel.",
+    "text_zh": "好友离开了你的频道。"
+  },
+  {
+    "file": "friend_switched_tocurrentchannel.wav",
+    "text": "Buddy joins your channel.",
+    "text_zh": "好友加入了你的频道。"
+  },
+  {
+    "file": "greeting.wav",
+    "text": "Welcome to TeamSpeak.",
+    "text_zh": "欢迎使用 TeamSpeak。"
+  },
+  {
+    "file": "insufficient_permissions.wav",
+    "text": "insufficient permissions.",
+    "text_zh": "权限不足。"
+  },
+  {
+    "file": "mic_activated.wav",
+    "text": "Microphone activated.",
+    "text_zh": "麦克风已启用。"
+  },
+  {
+    "file": "mic_click_off.wav",
+    "text": "you",
+    "text_zh": "松开说话",
+    "note": "官方为纯按键音效"
+  },
+  {
+    "file": "mic_click_on.wav",
+    "text": "you",
+    "text_zh": "按下说话",
+    "note": "官方为纯按键音效"
+  },
+  {
+    "file": "mic_muted.wav",
+    "text": "microphone muted.",
+    "text_zh": "麦克风已静音。"
+  },
+  {
+    "file": "neutral_banned_server_currentchannel.wav",
+    "text": "User in your channel was banned from the server.",
+    "text_zh": "你频道里的用户被封禁了。"
+  },
+  {
+    "file": "neutral_connection_connected_currentchannel.wav",
+    "text": "User entered your channel.",
+    "text_zh": "用户进入了你的频道。"
+  },
+  {
+    "file": "neutral_connection_connectionlost_currentchannel.wav",
+    "text": "user in your channel timed out.",
+    "text_zh": "你频道里的用户超时了。"
+  },
+  {
+    "file": "neutral_connection_disconnected_currentchannel.wav",
+    "text": "user disconnected from your channel.",
+    "text_zh": "用户与你的频道断开了连接。"
+  },
+  {
+    "file": "neutral_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "User was kicked out of your channel.",
+    "text_zh": "用户被踢出了你的频道。"
+  },
+  {
+    "file": "neutral_kicked_channel_tocurrentchannel.wav",
+    "text": "User was kicked to your channel.",
+    "text_zh": "用户被踢到了你的频道。"
+  },
+  {
+    "file": "neutral_kicked_server_currentchannel.wav",
+    "text": "User in your channel was kicked from the server.",
+    "text_zh": "你频道里的用户被踢出了服务器。"
+  },
+  {
+    "file": "neutral_moved_awayfromcurrentchannel.wav",
+    "text": "user was moved out of your channel.",
+    "text_zh": "用户被移出了你的频道。"
+  },
+  {
+    "file": "neutral_moved_tocurrentchannel.wav",
+    "text": "user was moved to your channel.",
+    "text_zh": "用户被移到了你的频道。"
+  },
+  {
+    "file": "neutral_recording_active_currentchannel.wav",
+    "text": "User in your channel is recording.",
+    "text_zh": "你频道里的用户正在录音。"
+  },
+  {
+    "file": "neutral_recording_started_currentchannel.wav",
+    "text": "User and your channel started recording.",
+    "text_zh": "你频道里的用户开始录音了。"
+  },
+  {
+    "file": "neutral_recording_stopped_currentchannel.wav",
+    "text": "User and your channel stopped recording.",
+    "text_zh": "你频道里的用户停止录音了。"
+  },
+  {
+    "file": "neutral_switched_awayfromcurrentchannel.wav",
+    "text": "User left your channel.",
+    "text_zh": "用户离开了你的频道。"
+  },
+  {
+    "file": "neutral_switched_tocurrentchannel.wav",
+    "text": "User joined your channel.",
+    "text_zh": "用户加入了你的频道。"
+  },
+  {
+    "file": "no_whisper_target_found.wav",
+    "text": "No Whisper Target found.",
+    "text_zh": "未找到悄悄话目标。"
+  },
+  {
+    "file": "servergroup_assigned.wav",
+    "text": "Server group assigned.",
+    "text_zh": "已分配服务器组。"
+  },
+  {
+    "file": "servergroup_revoked.wav",
+    "text": "Server group revoked.",
+    "text_zh": "服务器组已撤销。"
+  },
+  {
+    "file": "sound_muted.wav",
+    "text": "Sound muted.",
+    "text_zh": "声音已静音。"
+  },
+  {
+    "file": "sound_resumed.wav",
+    "text": "Sound resumed.",
+    "text_zh": "声音已恢复。"
+  },
+  {
+    "file": "stop_talking.wav",
+    "text": "you",
+    "text_zh": "麦克风已静音，请勿说话",
+    "note": "官方为纯音效；此处为建议朗读提示"
+  },
+  {
+    "file": "talkpower_granted.wav",
+    "text": "Talk Power Granted.",
+    "text_zh": "已授予发言权。"
+  },
+  {
+    "file": "talkpower_requested.wav",
+    "text": "User requested talk power.",
+    "text_zh": "用户请求了发言权。"
+  },
+  {
+    "file": "talkpower_revoked.wav",
+    "text": "talk power revoked.",
+    "text_zh": "发言权已撤销。"
+  },
+  {
+    "file": "testsound.wav",
+    "text": "testing your playback sound system.",
+    "text_zh": "正在测试你的播放声音系统。"
+  },
+  {
+    "file": "too_many_whisper_targets.wav",
+    "text": "too many whisper targets.",
+    "text_zh": "悄悄话目标太多。"
+  },
+  {
+    "file": "whisper_notify.wav",
+    "text": "",
+    "text_zh": "收到悄悄话",
+    "note": "官方为纯提示音；此处为建议朗读提示"
+  },
+  {
+    "file": "whisperlist_is_empty.wav",
+    "text": "Whisper List is empty.",
+    "text_zh": "悄悄话列表为空。"
+  },
+  {
+    "file": "you_edited_server.wav",
+    "text": "you edited the server.",
+    "text_zh": "你编辑了服务器。"
+  },
+  {
+    "file": "you_kicked_channel.wav",
+    "text": "You were kicked from the channel.",
+    "text_zh": "你被踢出了频道。"
+  },
+  {
+    "file": "you_kicked_server.wav",
+    "text": "you were kicked from the server.",
+    "text_zh": "你被踢出了服务器。"
+  },
+  {
+    "file": "you_were_banned.wav",
+    "text": "You were bound from the server.",
+    "text_zh": "你被封禁了。"
+  },
+  {
+    "file": "you_were_moved.wav",
+    "text": "You were moved.",
+    "text_zh": "你被移到了其他频道"
+  },
+  {
+    "file": "you_were_poked.wav",
+    "text": "Hey, wake up.",
+    "text_zh": "嘿，醒醒。"
+  },
+  {
+    "file": "your_channel_was_edited.wav",
+    "text": "Your channel was edited.",
+    "text_zh": "你的频道被修改了。"
+  }
+]

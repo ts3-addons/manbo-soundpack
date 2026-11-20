@@ -1,0 +1,397 @@
+[
+  {
+    "file": "3d_test.wav",
+    "text": "",
+    "avg_logprob": -0.547
+  },
+  {
+    "file": "away_activated.wav",
+    "text": "回头见。",
+    "avg_logprob": -0.145
+  },
+  {
+    "file": "away_deactivated.wav",
+    "text": "欢迎回来。",
+    "avg_logprob": -0.199
+  },
+  {
+    "file": "blocked_user_banned_server_currentchannel.wav",
+    "text": "你频道里的已屏蔽用户被服务器封禁了。",
+    "avg_logprob": -0.061
+  },
+  {
+    "file": "blocked_user_connection_connected_currentchannel.wav",
+    "text": "已屏蔽用户进入了你的频道。",
+    "avg_logprob": -0.135
+  },
+  {
+    "file": "blocked_user_connection_connectionlost_currentchannel.wav",
+    "text": "你频道里的已屏蔽用户连接超时了。",
+    "avg_logprob": -0.175
+  },
+  {
+    "file": "blocked_user_connection_disconnected_currentchannel.wav",
+    "text": "你频道里的已屏蔽用户已断开连接。",
+    "avg_logprob": -0.127
+  },
+  {
+    "file": "blocked_user_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "已屏蔽用户被踢出了你的频道。",
+    "avg_logprob": -0.098
+  },
+  {
+    "file": "blocked_user_kicked_channel_tocurrentchannel.wav",
+    "text": "已屏蔽用户被踢到了你的频道。",
+    "avg_logprob": -0.123
+  },
+  {
+    "file": "blocked_user_kicked_server_currentchannel.wav",
+    "text": "你频道里的已屏蔽用户被踢出了服务器。",
+    "avg_logprob": -0.129
+  },
+  {
+    "file": "blocked_user_moved_awayfromcurrentchannel.wav",
+    "text": "已屏蔽用户被移出了你的频道。",
+    "avg_logprob": -0.088
+  },
+  {
+    "file": "blocked_user_moved_tocurrentchannel.wav",
+    "text": "已屏蔽用户被移动到了你的频道。",
+    "avg_logprob": -0.109
+  },
+  {
+    "file": "blocked_user_switched_awayfromcurrentchannel.wav",
+    "text": "已屏蔽用户离开了你的频道。",
+    "avg_logprob": -0.125
+  },
+  {
+    "file": "blocked_user_switched_tocurrentchannel.wav",
+    "text": "已屏蔽用户加入了你的频道。",
+    "avg_logprob": -0.127
+  },
+  {
+    "file": "channel_created.wav",
+    "text": "频道已创建。",
+    "avg_logprob": -0.11
+  },
+  {
+    "file": "channel_deleted.wav",
+    "text": "频道已删除。",
+    "avg_logprob": -0.07
+  },
+  {
+    "file": "channel_edited.wav",
+    "text": "频道已修改。",
+    "avg_logprob": -0.137
+  },
+  {
+    "file": "channel_moved.wav",
+    "text": "频道已移动。",
+    "avg_logprob": -0.203
+  },
+  {
+    "file": "channel_switched.wav",
+    "text": "频道已切换。",
+    "avg_logprob": -0.239
+  },
+  {
+    "file": "channelgroup_changed.wav",
+    "text": "频道组已变更。",
+    "avg_logprob": -0.101
+  },
+  {
+    "file": "chat_message_inbound.wav",
+    "text": "",
+    "avg_logprob": -0.684
+  },
+  {
+    "file": "chat_message_outbound.wav",
+    "text": "",
+    "avg_logprob": null
+  },
+  {
+    "file": "connected.wav",
+    "text": "已连接。",
+    "avg_logprob": -0.191
+  },
+  {
+    "file": "connection_lost.wav",
+    "text": "连接已中断。",
+    "avg_logprob": -0.159
+  },
+  {
+    "file": "disconnected.wav",
+    "text": "已断开连接。",
+    "avg_logprob": -0.323
+  },
+  {
+    "file": "error.wav",
+    "text": "错误。",
+    "avg_logprob": -0.181
+  },
+  {
+    "file": "filetransfer_complete.wav",
+    "text": "文件传输完成。",
+    "avg_logprob": -0.126
+  },
+  {
+    "file": "filetransfer_failed.wav",
+    "text": "文件传输失败。",
+    "avg_logprob": -0.661
+  },
+  {
+    "file": "friend_banned_server_currentchannel.wav",
+    "text": "你频道里的好友被服务器封禁了。",
+    "avg_logprob": -0.106
+  },
+  {
+    "file": "friend_connection_connected_currentchannel.wav",
+    "text": "好友进入了你的频道。",
+    "avg_logprob": -0.117
+  },
+  {
+    "file": "friend_connection_connectionlost_currentchannel.wav",
+    "text": "你频道里的好友连接超时了。",
+    "avg_logprob": -0.182
+  },
+  {
+    "file": "friend_connection_disconnected_currentchannel.wav",
+    "text": "你频道里的好友已断开连接。",
+    "avg_logprob": -0.129
+  },
+  {
+    "file": "friend_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "好友被踢出了你的频道。",
+    "avg_logprob": -0.149
+  },
+  {
+    "file": "friend_kicked_channel_tocurrentchannel.wav",
+    "text": "好友被踢到了你的频道。",
+    "avg_logprob": -0.179
+  },
+  {
+    "file": "friend_kicked_server_currentchannel.wav",
+    "text": "你频道里的好友被踢出了服务器。",
+    "avg_logprob": -0.118
+  },
+  {
+    "file": "friend_moved_awayfromcurrentchannel.wav",
+    "text": "好友被移出了你的频道。",
+    "avg_logprob": -0.094
+  },
+  {
+    "file": "friend_moved_tocurrentchannel.wav",
+    "text": "好友被移动到了你的频道。",
+    "avg_logprob": -0.121
+  },
+  {
+    "file": "friend_switched_awayfromcurrentchannel.wav",
+    "text": "好友离开了你的频道。",
+    "avg_logprob": -0.131
+  },
+  {
+    "file": "friend_switched_tocurrentchannel.wav",
+    "text": "好友加入了你的频道。",
+    "avg_logprob": -0.213
+  },
+  {
+    "file": "greeting.wav",
+    "text": "欢迎使用 TeamSpeak。",
+    "avg_logprob": -0.111
+  },
+  {
+    "file": "insufficient_permissions.wav",
+    "text": "权限不足。",
+    "avg_logprob": -0.165
+  },
+  {
+    "file": "mic_activated.wav",
+    "text": "麦克风已启用。",
+    "avg_logprob": -0.227
+  },
+  {
+    "file": "mic_click_off.wav",
+    "text": "",
+    "avg_logprob": -0.707
+  },
+  {
+    "file": "mic_click_on.wav",
+    "text": "",
+    "avg_logprob": -0.726
+  },
+  {
+    "file": "mic_muted.wav",
+    "text": "麦克风已静音。",
+    "avg_logprob": -0.121
+  },
+  {
+    "file": "neutral_banned_server_currentchannel.wav",
+    "text": "你频道里的用户被服务器封禁了。",
+    "avg_logprob": -0.058
+  },
+  {
+    "file": "neutral_connection_connected_currentchannel.wav",
+    "text": "用户进入了你的频道。",
+    "avg_logprob": -0.13
+  },
+  {
+    "file": "neutral_connection_connectionlost_currentchannel.wav",
+    "text": "你频道里的用户连接超时了。",
+    "avg_logprob": -0.18
+  },
+  {
+    "file": "neutral_connection_disconnected_currentchannel.wav",
+    "text": "你频道里的用户已断开连接。",
+    "avg_logprob": -0.149
+  },
+  {
+    "file": "neutral_kicked_channel_awayfromcurrentchannel.wav",
+    "text": "用户被踢出了你的频道。",
+    "avg_logprob": -0.104
+  },
+  {
+    "file": "neutral_kicked_channel_tocurrentchannel.wav",
+    "text": "用户被踢到了你的频道。",
+    "avg_logprob": -0.101
+  },
+  {
+    "file": "neutral_kicked_server_currentchannel.wav",
+    "text": "你频道里的用户被踢出了服务器。",
+    "avg_logprob": -0.048
+  },
+  {
+    "file": "neutral_moved_awayfromcurrentchannel.wav",
+    "text": "用户被移出了你的频道。",
+    "avg_logprob": -0.085
+  },
+  {
+    "file": "neutral_moved_tocurrentchannel.wav",
+    "text": "用户被移动到了你的频道。",
+    "avg_logprob": -0.1
+  },
+  {
+    "file": "neutral_recording_active_currentchannel.wav",
+    "text": "你频道里的用户正在录音。",
+    "avg_logprob": -0.102
+  },
+  {
+    "file": "neutral_recording_started_currentchannel.wav",
+    "text": "你频道里的用户开始录音了。",
+    "avg_logprob": -0.146
+  },
+  {
+    "file": "neutral_recording_stopped_currentchannel.wav",
+    "text": "你频道里的用户停止录音了。",
+    "avg_logprob": -0.185
+  },
+  {
+    "file": "neutral_switched_awayfromcurrentchannel.wav",
+    "text": "用户离开了你的频道。",
+    "avg_logprob": -0.175
+  },
+  {
+    "file": "neutral_switched_tocurrentchannel.wav",
+    "text": "用户加入了你的频道。",
+    "avg_logprob": -0.174
+  },
+  {
+    "file": "no_whisper_target_found.wav",
+    "text": "未找到悄悄话目标。",
+    "avg_logprob": -0.261
+  },
+  {
+    "file": "servergroup_assigned.wav",
+    "text": "已分配服务器组。",
+    "avg_logprob": -0.193
+  },
+  {
+    "file": "servergroup_revoked.wav",
+    "text": "服务器组已撤销。",
+    "avg_logprob": -0.208
+  },
+  {
+    "file": "sound_muted.wav",
+    "text": "声音已静音。",
+    "avg_logprob": -0.157
+  },
+  {
+    "file": "sound_resumed.wav",
+    "text": "声音已恢复。",
+    "avg_logprob": -0.211
+  },
+  {
+    "file": "stop_talking.wav",
+    "text": "",
+    "avg_logprob": -0.67
+  },
+  {
+    "file": "talkpower_granted.wav",
+    "text": "已授予发言权。",
+    "avg_logprob": -0.314
+  },
+  {
+    "file": "talkpower_requested.wav",
+    "text": "用户请求发言权。",
+    "avg_logprob": -0.197
+  },
+  {
+    "file": "talkpower_revoked.wav",
+    "text": "发言权已撤销。",
+    "avg_logprob": -0.122
+  },
+  {
+    "file": "testsound.wav",
+    "text": "正在测试你的声音播放系统。",
+    "avg_logprob": -0.117
+  },
+  {
+    "file": "too_many_whisper_targets.wav",
+    "text": "悄悄话目标太多。",
+    "avg_logprob": -0.191
+  },
+  {
+    "file": "whisper_notify.wav",
+    "text": "",
+    "avg_logprob": null
+  },
+  {
+    "file": "whisperlist_is_empty.wav",
+    "text": "悄悄话列表为空。",
+    "avg_logprob": -0.148
+  },
+  {
+    "file": "you_edited_server.wav",
+    "text": "你编辑了服务器。",
+    "avg_logprob": -0.148
+  },
+  {
+    "file": "you_kicked_channel.wav",
+    "text": "你被踢出了频道。",
+    "avg_logprob": -0.064
+  },
+  {
+    "file": "you_kicked_server.wav",
+    "text": "你被踢出了服务器。",
+    "avg_logprob": -0.093
+  },
+  {
+    "file": "you_were_banned.wav",
+    "text": "你被服务器封禁了。",
+    "avg_logprob": -0.168
+  },
+  {
+    "file": "you_were_moved.wav",
+    "text": "你已被移动到其他频道。",
+    "avg_logprob": -0.195
+  },
+  {
+    "file": "you_were_poked.wav",
+    "text": "嘿，醒醒。",
+    "avg_logprob": -0.209
+  },
+  {
+    "file": "your_channel_was_edited.wav",
+    "text": "你的频道已被修改。",
+    "avg_logprob": -0.076
+  }
+]
